@@ -15,7 +15,7 @@
     "dist"
   ],
   "main": "dist/mte-kernel.js",
-  "module": "dist/mte-kernel.mjs",
+  "module": "dist/mte-kernel.esm.js",
   "scripts": {
     "lint": "eslint lib test",
     "fix": "eslint lib test --fix",
