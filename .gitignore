@@ -60,6 +60,7 @@ typings/
 .env
 
 # Builds
+/dist/
 /doc/
 
 # Temporary/working files
