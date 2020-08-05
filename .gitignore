@@ -65,3 +65,4 @@ typings/
 
 # Temporary/working files
 temp/
+package-lock.json
