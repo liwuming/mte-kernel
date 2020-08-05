@@ -1,6 +1,6 @@
 {
   "name": "@susisu/mte-kernel",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "The text editor independent part of markdown-table-editor",
   "keywords": [
     "markdown",
