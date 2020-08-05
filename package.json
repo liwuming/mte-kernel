@@ -25,8 +25,7 @@
     "doc": "esdoc",
     "prepublishOnly": "run-s lint test build doc",
     "clean": "rimraf .nyc_output coverage dist doc",
-    "prepare": "npm run build",
-    "install": "npm run build"
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
